@@ -1,1 +1,3 @@
 Hello world!
+
+Testing VS Code git commit message editor
